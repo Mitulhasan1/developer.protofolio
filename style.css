@@ -3,5 +3,8 @@ body{
 
 }
 h1{
-    font-size: 32px;
+    font-size: 40px;
+}
+.name{
+    color: rgb(187, 126, 12);
 }
